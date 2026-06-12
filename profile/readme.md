@@ -11,7 +11,7 @@ The official organization for the JammingCat21 Youtube Channel.
 ## Our Github
 This organization is for bug reporting, community development, and fostering a place to learn and have fun.
 
-### If you do not see a plugin/mod here then it was not mine. Check the video description for the proper link.
+If you do not see a plugin/mod here then it was not mine. Check the video description for the proper link.
 
 ## FAQ
 ### What server type do your plugins work on?
