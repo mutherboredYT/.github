@@ -34,9 +34,8 @@ This organization is for bug reporting, community development, and fostering a p
 - In this order below. The playlist is long but once you watch the first 5 or so, you can manage yourself.
 - Download any IDE but [IntelliJ](https://www.jetbrains.com/idea/download/?section=windows) is tailormade for Minecraft Development.
 - [Kody Simpson Playlist](https://www.youtube.com/playlist?list=PLfu_Bpi_zcDNEKmR82hnbv9UxQ16nUBF7)
-- [Spigot API](https://hub.spigotmc.org/javadocs/spigot/)
+- [Paper API](https://jd.papermc.io/paper)
 - [General Spigot Info](https://www.spigotmc.org/wiki/spigot-plugin-development/)
-- If you do not want the excessive AI autocomplete of IntelliJ, download this older version [here.](https://archive.org/details/ideaIC-2024.3.5)
 
 ### Can you make something for me?
 - Message me on [discord.](https://discord.com/invite/3y9NG76U8T) My fee is $10.
