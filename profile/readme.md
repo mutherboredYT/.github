@@ -21,14 +21,14 @@ This organization is for bug reporting, community development, and fostering a p
 - Maintenance will be provided for as long as there is interest.
 - Updates / Maintenance is not guaranteed.
 - If you would like an update, message me on [discord.](https://discord.com/invite/3y9NG76U8T)
-- Backports or specific requests require a [donation](https://ko-fi.com/mutherbored).
+- Backports or specific requests require a [donation.](https://ko-fi.com/mutherbored)
 
 ### Can I contribute?
 - Everyone is welcome to contribute.
 - Follow basic standards with making PRs.
 
 ### Can I make videos / share / edit your plugins?
-- Absolutely but read terms below.
+- Absolutely but make sure to follow my [terms.](https://github.com/JammingCat21/.github/tree/main/documentation)
 
 ### Can you teach me? / How can I do this?
 - In this order below. The playlist is long but once you watch the first 5 or so, you can manage yourself.
@@ -40,10 +40,10 @@ This organization is for bug reporting, community development, and fostering a p
 ### Can you make something for me?
 - Message me on [discord.](https://discord.com/invite/3y9NG76U8T) My fee is $10.
 
-## Terms
-This follows for every single item in this organization.
-- You are free to alter, add to, redistribute, create content, and share.
-- Please provide credit or link to this page in your video description.
-- Do not place my work behind paywalls.
-- Do not claim these works as your own.
-- I am not responsible for any sort of damages caused by distributions not posted by me. To be safe, [download only here.](https://modrinth.com/user/mutherbored)
+## Copyright
+### Copyright (c) 2026 Eric Valladares. All rights reserved except where explicitly granted.
+
+For permissions, inquiries, or notices, contact the Copyright Holder at: [mutherbored.contact@gmail.com](mailto:mutherbored.contact@gmail.com)
+
+Read more [here.](https://github.com/JammingCat21/.github/tree/main/documentation)
+
