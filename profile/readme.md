@@ -2,10 +2,10 @@
 The official organization for the JammingCat21 Youtube Channel.
 
 ### My plugins are free of charge! In order to support me, check the links below:
-- [DOWNLOADS ARE HERE.](https://modrinth.com/user/JammingCat21)
+- [DOWNLOADS ARE HERE.](https://modrinth.com/user/mutherbroed)
 - [Youtube](https://www.youtube.com/@JammingCat21)
-- [Discord](https://discord.gg/y7keGBDEkV)
-- [Ko-fi](https://ko-fi.com/jammingcat21)
+- [Discord](https://discord.com/invite/3y9NG76U8T)
+- [Ko-fi](https://ko-fi.com/mutherbored)
 
 ## Our Github
 This site is meant for bug reporting, community development, and fostering a place where others can learn and have fun.
@@ -20,7 +20,7 @@ If you do not see a plugin/mod here then it was not mine. Check the video descri
 ### XYZ is outdated / no longer works.
 - Maintenance will be provided for as long as XYZ Project retains interest.
 - Can expect bug fixing, updating to new versions, etc.
-- Backports or specific requests require a [donation](https://ko-fi.com/jammerz) but first [message me.](https://discord.gg/pfH8tN35sr). 
+- Backports or specific requests require a [donation](https://ko-fi.com/mutherbored) but first [message me.](https://discord.com/invite/3y9NG76U8T). 
 
 ### Can I contribute?
 - Everyone is welcome to contribute.
@@ -46,4 +46,4 @@ This follows for every single item in this organization.
 - Please provide credit or link to this page in your video description.
 - Do not place my work behind paywalls.
 - Do not claim these works as your own.
-- I am not responsible for any sort of damages caused by distributions not posted by me. To be safe, [download only here.](https://modrinth.com/user/JammingCat21)
+- I am not responsible for any sort of damages caused by distributions not posted by me. To be safe, [download only here.](https://modrinth.com/user/mutherbored)
