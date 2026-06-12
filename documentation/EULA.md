@@ -15,8 +15,7 @@ By using, modifying, or redistributing this work, you agree to the following ter
 If you publicly redistribute this work or any derivative work, you must:
 
 * Give clear credit to Eric Valladares.
-* Include this EULA.
-* Keep all original copyright notices intact.
+* Keep all original [copyright notices](https://github.com/JammingCat21/.github/blob/main/documentation/LICENCE.md) intact.
 
 ## What You Cannot Do
 
