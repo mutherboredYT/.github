@@ -3,24 +3,25 @@ The official organization for the JammingCat21 Youtube Channel.
 
 ### My plugins are free of charge! In order to support me, check the links below:
 - [DOWNLOADS ARE HERE.](https://modrinth.com/user/mutherbroed)
+- [Donate](https://ko-fi.com/mutherbored)
 - [Youtube](https://www.youtube.com/@JammingCat21)
 - [Discord](https://discord.com/invite/3y9NG76U8T)
-- [Ko-fi](https://ko-fi.com/mutherbored)
+
 
 ## Our Github
-This site is meant for bug reporting, community development, and fostering a place where others can learn and have fun.
+This organization is for bug reporting, community development, and fostering a place to learn and have fun.
 
-If you do not see a plugin/mod here then it was not mine. Check the video description for the proper link.
+### If you do not see a plugin/mod here then it was not mine. Check the video description for the proper link.
 
 ## FAQ
-### What server do your plugins work on?
-- Only Bukkit / Spigot / Paper
-- There will be no ports made for other server software / modded servers.
+### What server type do your plugins work on?
+- Primarily Paper.
 
 ### XYZ is outdated / no longer works.
-- Maintenance will be provided for as long as XYZ Project retains interest.
-- Can expect bug fixing, updating to new versions, etc.
-- Backports or specific requests require a [donation](https://ko-fi.com/mutherbored) but first [message me.](https://discord.com/invite/3y9NG76U8T). 
+- Maintenance will be provided for as long as there is interest.
+- Updates / Maintenance is not guaranteed.
+- If you would like an update, message me on [discord.](https://discord.com/invite/3y9NG76U8T)
+- Backports or specific requests require a [donation](https://ko-fi.com/mutherbored).
 
 ### Can I contribute?
 - Everyone is welcome to contribute.
@@ -38,7 +39,7 @@ If you do not see a plugin/mod here then it was not mine. Check the video descri
 - If you do not want the excessive AI autocomplete of IntelliJ, download this older version [here.](https://archive.org/details/ideaIC-2024.3.5)
 
 ### Can you make something for me?
-- Message me on Discord. My fee is $10.
+- Message me on [discord.](https://discord.com/invite/3y9NG76U8T) My fee is $10.
 
 ## Terms
 This follows for every single item in this organization.
