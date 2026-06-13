@@ -19,7 +19,7 @@ If you do not see a plugin/mod here then it was not mine. Check the video descri
 
 ### XYZ is outdated / no longer works.
 - Maintenance will be provided for as long as there is interest.
-- Updates / Maintenance is not guaranteed.
+- Updates and Maintenance are not guaranteed.
 - If you would like an update, message me on [discord.](https://discord.com/invite/3y9NG76U8T)
 - Backports or specific requests require a [donation.](https://ko-fi.com/mutherbored)
 
@@ -45,5 +45,5 @@ If you do not see a plugin/mod here then it was not mine. Check the video descri
 
 For permissions, inquiries, or notices, contact the Copyright Holder at: [mutherbored.contact@gmail.com](mailto:mutherbored.contact@gmail.com)
 
-Read more [here.](https://github.com/JammingCat21/.github/tree/main/documentation)
+Full Copyright details and EULA can be found [here.](https://github.com/JammingCat21/.github/tree/main/documentation)
 
